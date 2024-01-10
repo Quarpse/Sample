@@ -1,0 +1,104 @@
+/* Applies to the entire body of the HTML document (except where overridden by more specific
+selectors). */
+
+body {
+  background-color: chocolate;
+  justify-content: center;
+}
+.box{
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  text-shadow: 2px 2px 0 rgba(160, 160, 160, 1);
+  padding: 10px;
+}
+.boxone{
+  background: #2ecc71;
+  border: 5px solid black; 
+  }
+.boxtwo{
+  background: #16a085;
+  border: 5px solid black; 
+}
+.boxthree{
+  background: yellow;
+  border: 5px solid black; 
+}
+.boxfour{
+  background: purple;
+  border: 5px solid black;
+}
+.boxfive{
+  background: red;
+  border: 5px solid black; 
+}
+.boxsix{
+  background: blue;
+  border: 5px solid black; 
+}
+.boxseven{
+  background: blueviolet;
+  border: 5px solid black;
+}
+container{
+  display: flex;
+  border: 5px solid goldenrod;
+}
+container2{
+  display: flex;
+  border: 5px solid goldenrod;
+}
+.image{
+  text-align: center;
+  border: 3px solid goldenrod;
+  padding: 4px 0px 0px 0px;
+  background-color: black;
+  }
+h1{
+  font-size: 35px;
+  text-align: center;
+  border: 10px solid black;
+  color: cornsilk;
+  text-shadow: 4px 4px 0 rgba(0, 0, 0, 1);
+  padding: 10px;
+}
+.text{
+  color:rgba(0, 0, 0, 1);
+  font-size: 25px;
+  text-align: center;
+  padding 4px;
+  border: 5px solid cornsilk;
+  padding: 10px;
+}
+fieldset{
+  display: flex;
+  border: 5px solid black;
+  font-size: 40px;
+  text-align: justify;
+  padding: 5px;
+}
+.boxeight{
+  background: grey;
+  border: 5px solid black;
+}
+p{
+  display: flex;
+  border: 5px solid black ;
+  text-align: center;
+  font-size: 20px;
+  color: black;
+}
+.page2{
+  font-size: 35px;
+  text-align: center;
+  border: 10px solid black;
+  color: cornsilk;
+  text-shadow: 4px 4px 0 rgba(0, 0, 0, 1);
+  padding: 10px;
+}
+.image2{
+  text-align: justify;
+  border: 5px solid black;
+  padding: 5px 0px 0px 0px;
+  background-color: black;
+}
